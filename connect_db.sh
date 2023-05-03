@@ -2,7 +2,6 @@
 
 select choise in "Create Table" "List Tables" "Drop Table" "Insert into Table" "Select From Table" "Delete From Table" "Update Table" "Back To Main Menu"
           do
-
           case $choise in 
               
               "Create Table")
